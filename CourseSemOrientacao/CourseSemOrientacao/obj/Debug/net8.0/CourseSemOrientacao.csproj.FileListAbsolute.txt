@@ -1,0 +1,15 @@
+C:\Users\vtorl\OneDrive\Documentos\Projetos\Csharp-Practicig\CourseSemOrientacao\CourseSemOrientacao\bin\Debug\net8.0\CourseSemOrientacao.exe
+C:\Users\vtorl\OneDrive\Documentos\Projetos\Csharp-Practicig\CourseSemOrientacao\CourseSemOrientacao\bin\Debug\net8.0\CourseSemOrientacao.deps.json
+C:\Users\vtorl\OneDrive\Documentos\Projetos\Csharp-Practicig\CourseSemOrientacao\CourseSemOrientacao\bin\Debug\net8.0\CourseSemOrientacao.runtimeconfig.json
+C:\Users\vtorl\OneDrive\Documentos\Projetos\Csharp-Practicig\CourseSemOrientacao\CourseSemOrientacao\bin\Debug\net8.0\CourseSemOrientacao.dll
+C:\Users\vtorl\OneDrive\Documentos\Projetos\Csharp-Practicig\CourseSemOrientacao\CourseSemOrientacao\bin\Debug\net8.0\CourseSemOrientacao.pdb
+C:\Users\vtorl\OneDrive\Documentos\Projetos\Csharp-Practicig\CourseSemOrientacao\CourseSemOrientacao\obj\Debug\net8.0\CourseSemOrientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtorl\OneDrive\Documentos\Projetos\Csharp-Practicig\CourseSemOrientacao\CourseSemOrientacao\obj\Debug\net8.0\CourseSemOrientacao.AssemblyInfoInputs.cache
+C:\Users\vtorl\OneDrive\Documentos\Projetos\Csharp-Practicig\CourseSemOrientacao\CourseSemOrientacao\obj\Debug\net8.0\CourseSemOrientacao.AssemblyInfo.cs
+C:\Users\vtorl\OneDrive\Documentos\Projetos\Csharp-Practicig\CourseSemOrientacao\CourseSemOrientacao\obj\Debug\net8.0\CourseSemOrientacao.csproj.CoreCompileInputs.cache
+C:\Users\vtorl\OneDrive\Documentos\Projetos\Csharp-Practicig\CourseSemOrientacao\CourseSemOrientacao\obj\Debug\net8.0\CourseSemOrientacao.sourcelink.json
+C:\Users\vtorl\OneDrive\Documentos\Projetos\Csharp-Practicig\CourseSemOrientacao\CourseSemOrientacao\obj\Debug\net8.0\CourseSemOrientacao.dll
+C:\Users\vtorl\OneDrive\Documentos\Projetos\Csharp-Practicig\CourseSemOrientacao\CourseSemOrientacao\obj\Debug\net8.0\refint\CourseSemOrientacao.dll
+C:\Users\vtorl\OneDrive\Documentos\Projetos\Csharp-Practicig\CourseSemOrientacao\CourseSemOrientacao\obj\Debug\net8.0\CourseSemOrientacao.pdb
+C:\Users\vtorl\OneDrive\Documentos\Projetos\Csharp-Practicig\CourseSemOrientacao\CourseSemOrientacao\obj\Debug\net8.0\CourseSemOrientacao.genruntimeconfig.cache
+C:\Users\vtorl\OneDrive\Documentos\Projetos\Csharp-Practicig\CourseSemOrientacao\CourseSemOrientacao\obj\Debug\net8.0\ref\CourseSemOrientacao.dll
